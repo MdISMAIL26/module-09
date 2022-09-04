@@ -1,0 +1,22 @@
+.carousel_bg {
+  background-color: #fceae8;
+}
+.pad-caro {
+  padding: 20px 20px;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+  padding: 20px 20px;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(204, 135, 135), rgb(243, 181, 243));
+}
+
+.catagory h1 {
+  color: white;
+}
+
+.catagory img {
+  width: 100px;
+}

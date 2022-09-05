@@ -20,3 +20,14 @@
 .catagory img {
   width: 100px;
 }
+.card {
+  border: none;
+  box-shadow: 10px 10px 30px lightgray;
+}
+.suscribe {
+  background-color: #fceae8;
+  height: 300px;
+  margin-top: 80px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+}
